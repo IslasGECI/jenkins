@@ -19,3 +19,15 @@ $ docker exec -u 0 -it jenkins bash
 # exit
 ```
 
+---
+
+ERROR:
+```
+Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock:
+dial unix /var/run/docker.sock: connect: permission denied
+```
+
+SOLVED:
+```
+sudo chmod 777 /var/run/docker.sock
+```
