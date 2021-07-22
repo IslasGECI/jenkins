@@ -13,7 +13,9 @@ docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 ```
 
 ```
-docker exec -u 0 -it jenkins bash
-apt update && apt install -y docker.io
+$ docker exec -u 0 -it jenkins bash
+# apt update && apt install -y docker.io
+# docker run hello-world
+# exit
 ```
 
