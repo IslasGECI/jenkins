@@ -1,0 +1,17 @@
+cloudbees-folder:6.708.ve61636eb_65a_5
+antisamy-markup-formatter:2.7
+build-timeout:1.20
+credentials-binding:latest
+timestamper:1.17
+ws-cleanup:0.40
+ant:1.13
+gradle:1.38
+pipeline-stage-view:2.23
+git:latest
+ssh-slaves:1.33.1-805.vb_a_0d6a_21f322
+matrix-auth:3.1
+pam-auth:1.7
+ldap:2.8
+email-ext:2.87
+mailer:408.vd726a_1130320
+bitbucket:latest
