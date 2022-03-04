@@ -15,3 +15,4 @@ ldap:2.8
 email-ext:2.87
 mailer:408.vd726a_1130320
 bitbucket:latest
+cloudbees-bitbucket-branch-source:latest
